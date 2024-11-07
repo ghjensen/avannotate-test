@@ -8,8 +8,8 @@
   "project": {
     "github_org": "ghjensen",
     "is_private": false,
-    "title": "George Bowering interview - annotation testing",
-    "description": "A test of AVAnnotate and its functionality.",
+    "title": "AVAnnotate testing",
+    "description": "A test of AVAnnotate and its functionality (ACH 2024 conference workshop)",
     "language": "en",
     "slug": "avannotate-test",
     "creator": "ghjensen",
@@ -22,6 +22,8 @@
       "tags": []
     },
     "created_at": "2024-11-07T18:48:45.081Z",
-    "updated_at": "2024-11-07T18:48:45.081Z"
-  }
+    "updated_at": "2024-11-07T18:55:36.461Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
 }
